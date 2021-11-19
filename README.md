@@ -18,7 +18,7 @@ _Please note that this list excludes a few websites which I have created but are
 - [turtle84375.tk](turtle84375.tk) (my personal sandbox website, just for fun)
 - [Foruming](foruming.rf.gd) (the community forum platform that I run)
 - TrackTask _LINK COMING SOON_ (a private & sharable task management webapp)
-- [The Techy Forums](techy.boards.net) (the tech forum that I run)
+- [The Techy Forums](https://techy.boards.net) (the tech forum that I run)
 
 #### Need Help?
 I'd be glad to help you with your bugs or other programming & software related needs. I also have moderation experience on my own and other sites. Feel free to contact me for more details.
