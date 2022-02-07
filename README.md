@@ -4,7 +4,9 @@
 
 I'm Turtle84375, but you can just call me Turtle. I'm an older teen, a computer programmer and an pretty experienced web developer. I oversee several different websites ranging from forums to professional hosting to sandbox sites (the last one solely for my own entertainment). On GitHub, I do things like push code to my websites, use repositories for my projects, and help other people out with debugging their own code.
 
-I learned a lot of the basics of coding from Scratch. I first joined as [84385](https://api.scratch.mit.edu/users/84385) back in 2016 for school, and I got hooked within the first week. After that year, I ended up deleting my that account for a reason I can't remember to this day, but I stayed interested in computer programming until 2019, when I rejoined as [84375](https://api.scratch.mit.edu/users/84375). It took me a few years, but eventually I started making projects of actual quality... and then Scratch just wasn't fun anymore. Once the COVID-19 pandemic hit, and I began spending more time on the computer, there wasn't too much else to do but branch out into the Internet. I've been here since then, finding new things to do and working on the project's I've started.
+I learned a lot of the basics of coding from Scratch. I first joined as [84385](https://api.scratch.mit.edu/users/84385) back in 2016 for school, and I got hooked within the first week. After that year, I ended up deleting my that account for a reason I can't remember to this day, but I stayed interested in computer programming until 2019, when I rejoined as [84375](https://api.scratch.mit.edu/users/84375). It took me a few years, but eventually I started making projects of actual quality... and then Scratch just wasn't fun anymore, so I just left.
+
+Once the COVID-19 pandemic hit, and I began spending more time on the computer, there wasn't too much else to do but branch out into the Internet. I've been here since then, finding new things to do and working on the project's I've started. It's been a blast learning Javascript, Python, HTML, and all sorts of other neat languages.
 
 #### My Interests (Coding Related)
 - Administration/moderation work
