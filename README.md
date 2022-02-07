@@ -2,11 +2,11 @@
 
 ## Welcome to my profile!
 
-I'm Turtle84375, but you can just call me Turtle. I'm a budding computer programmer and an experienced (if I do say so myself) web developer. I oversee multiple different websites ranging from forums to professional webpages to fun sandbox sites. On GitHub, I do things like push code to my websites and help other people out with debugging their own code.
+I'm Turtle84375, but you can just call me Turtle. Most people do, the numbers after the name are strange to most people. Anyways, I'm a computer programmer and an experienced (if I do say so myself) web developer. I oversee multiple different websites ranging from forums to professional hosting to sandbox sites (the last one solely for my entertainment). On GitHub, I do things like push code to my websites, use repositories for my projects, and help other people out with debugging their own code.
 
 #### My Interests (Coding Related)
 - Administration/moderation work
-- Javascript coding
+- Coding (duh...)
 - Software configuration
 - Foruming
 
@@ -14,7 +14,7 @@ I'm Turtle84375, but you can just call me Turtle. I'm a budding computer program
 - Protecting my privacy by not including too many personal details in my public biography ;)
 
 #### My Websites
-_Please note that this list excludes a few websites which I have created but are not available to the general public._
+_This list excludes a few websites which I have created but are not available to the general public._
 - [turtle84375.tk](turtle84375.tk) (my personal sandbox website, just for fun)
 - [Foruming](foruming.rf.gd) (the community forum platform that I run)
 - TrackTask _LINK COMING SOON_ (a private & sharable task management webapp)
