@@ -22,11 +22,11 @@ Once the COVID-19 pandemic hit, and I began spending more time on the computer, 
 
 #### My Websites/Projects
 _This list excludes a few projects I created that aren't available to the general public._
-- [turtle84375.tk](turtle84375.tk) (my personal sandbox website, just for fun)
+- [turtle84375.tk](turtle84375.tk) (my personal website, just for fun)
 - Foruming (the community forum platform that I used to run, _now shutdown_)
 - TrackTask _LINK COMING SOON_ (a private & sharable task management webapp)
-- [The Techy Forums](https://techy.boards.net) (the tech forum that I run)
-- TurtleHosting _CURRENTLY IN RESTRICTED BETA TESTING_ (free website hosting with insanely high quotas)
+- The Techy Forums (the tech forum that I used to run, _now shutdown_)
+- [TurtleHosting](https://www.turtlehosting.ml) (free website hosting with insanely high quotas)
 - My own blog? (we'll see...)
 - Maintaining an instance of the legacy [wasteof.money](https://github.com/jeffalo/wasteof.money) (haven't decided on a brand name yet)
 
