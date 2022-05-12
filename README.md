@@ -8,11 +8,13 @@ I learned a lot of the basics of coding from Scratch. I first joined as [84385](
 
 Once the COVID-19 pandemic hit, and I began spending more time on the computer, there wasn't too much else to do but branch out into the Internet. I've been here since then, finding new things to do and working on the project's I've started. It's been a blast learning Javascript, Python, HTML, and all sorts of other neat languages.
 
+Lately, I've been interested in software administration and network engineering.
+
 #### My Interests (Coding Related)
 - Administration/moderation work
 - Coding (duh...)
 - Software configuration
-- (I was going to put something else here, but I forgot what)
+- Game & bot development
 
 #### My Interests (Offline)
 - Maintaining my good grades :P
@@ -20,15 +22,17 @@ Once the COVID-19 pandemic hit, and I began spending more time on the computer, 
 - Reading whatever good books I can find
 - Playing the clarinet for my school's symphonic band
 
-#### My Websites/Projects
+#### My Current Websites/Projects
 _This list excludes a few projects I created that aren't available to the general public._
-- [turtle84375.tk](turtle84375.tk) (my personal website, just for fun)
-- Foruming (the community forum platform that I used to run, _now shutdown_)
+- [turtle84375.me](turtle84375.me) (my personal website)
+- [blog.turtle84375.me](blog.turtle84375.me) (my blog!)
 - TrackTask _LINK COMING SOON_ (a private & sharable task management webapp)
-- The Techy Forums (the tech forum that I used to run, _now shutdown_)
-- [TurtleHosting](https://www.turtlehosting.ml) (free website hosting with insanely high quotas)
-- My own blog? (we'll see...)
 - Maintaining an instance of the legacy [wasteof.money](https://github.com/jeffalo/wasteof.money) (haven't decided on a brand name yet)
+
+#### Archived Projects
+- Foruming (the community forum platform that I used to run, _now shutdown_)
+- The Techy Forums (the tech forum that I used to run, _now shutdown_)
+- TurtleHosting (free website hosting with insanely high quotas, _now shutdown_)
 
 #### Need Help?
 I'd be glad to help you with your bugs or other programming & software related needs. I also have moderation experience on my own and other sites. Feel free to contact me for more details.
@@ -41,6 +45,6 @@ You can:
 - Chat with me on [wasteof.money](https://wasteof.money/turtle84375) (account needed, general chat)
 - PM me on [Guilded](https://www.guilded.gg/turtle84375) (I check this frequently, best for quick response)
 - Email me at `turtle84375{at}programmer{dot}net` (security vulnerabilities and private discussions only, please)
-- ~~Hack my computer and code a popup alert to appear on my screen with your message~~ (actually, please don't do that)
+- ~~Hack my computer and send a popup to my screen with your message~~
 
-## Thanks for stopping by, see you out there in the world of coding!
+## Thanks for stopping by my profile!
